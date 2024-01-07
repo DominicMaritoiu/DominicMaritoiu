@@ -26,7 +26,7 @@ I'm continuously expanding my knowledge and actively learning new technologies. 
 <p>I'm always open to collaboration and discussion. Whether you have a project idea, want to share knowledge, or just chat about technology, feel free to reach out.</p>
 
 <h6>📫 How to Reach Me</h6>
-<a href="https://www.linkedin.com/in/dominicmaritoiu/">"LinkedIn"</a>
+<a href="https://www.linkedin.com/in/dominicmaritoiu/">LinkedIn</a>
 <p>Email: dominicmaritoiu@outlook.com </p>
 
 <p>Feel free to explore my repositories, and don't hesitate to provide feedback or suggestions. Let's code together and make an impact! 🚀</p>
