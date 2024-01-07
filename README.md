@@ -12,7 +12,7 @@ Here are some of the technologies and tools that I'm proficient in: </h2>
 <li>Version Control: Git</li>
 <li>Object-Oriented Programming (OOP)</li>
 <li>IDEs: PyCharm, Visual Studio Code</li>
-<li>Web Technologies: HTML</li>
+<li>Web Technologies: HTML5, CSS3</li>
 <h3>🚀 What I'm Currently Working On</h3>
 <p>I'm currently honing my skills in Python and exploring various libraries and frameworks. My current focus includes improving my proficiency in Tkinter for GUI development, mastering data manipulation with Pandas, and enhancing my understanding of OOP principles.</p>
 
