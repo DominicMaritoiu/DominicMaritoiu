@@ -18,7 +18,7 @@
   </ul>
 
   <h3>🚀 What I'm Currently Working On</h3>
-  <p>I'm currently honing my skills in Python and exploring various libraries and frameworks. My current focus includes improving my proficiency in Tkinter for GUI development, mastering data manipulation with Pandas, and enhancing my understanding of OOP principles.</p>
+  <p>I'm currently developing my skills in Python and exploring various libraries and frameworks. My current focus includes improving my proficiency in Tkinter for GUI development, mastering data manipulation with Pandas, and enhancing my understanding of OOP principles.</p>
 
   <h4>🌱 What I'm Learning</h4>
   <ul>
