@@ -13,21 +13,20 @@ Here are some of the technologies and tools that I'm proficient in: </h2>
 <li>Object-Oriented Programming (OOP)</li>
 <li>IDEs: PyCharm, Visual Studio Code</li>
 <li>Web Technologies: HTML</li>
-🚀 What I'm Currently Working On
-I'm currently honing my skills in Python and exploring various libraries and frameworks. My current focus includes improving my proficiency in Tkinter for GUI development, mastering data manipulation with Pandas, and enhancing my understanding of OOP principles.
+<h3>🚀 What I'm Currently Working On</h3>
+<p>I'm currently honing my skills in Python and exploring various libraries and frameworks. My current focus includes improving my proficiency in Tkinter for GUI development, mastering data manipulation with Pandas, and enhancing my understanding of OOP principles.</p>
 
-🌱 What I'm Learning
+<h4>🌱 What I'm Learning</h4>
 I'm continuously expanding my knowledge and actively learning new technologies. Some areas of interest and ongoing learning include:
 
-Advanced Python concepts
-Web development with Flask or Django
-Integration of Git workflows for collaborative projects
-🤝 Let's Connect!
-I'm always open to collaboration and discussion. Whether you have a project idea, want to share knowledge, or just chat about technology, feel free to reach out.
+<li>Advanced Python concepts</li>
+<li>Web development with Flask</li>
+<li>Integration of Git workflows for collaborative projects</li>
+<h5>🤝 Let's Connect!</h5>
+<p>I'm always open to collaboration and discussion. Whether you have a project idea, want to share knowledge, or just chat about technology, feel free to reach out.</p>
 
-📫 How to Reach Me
-LinkedIn: <a href="https://www.linkedin.com/in/dominicmaritoiu/"
-Email: dominicmaritoiu@outlook.com
-📈 GitHub Stats
+<h6>📫 How to Reach Me</h6>
+<a href="https://www.linkedin.com/in/dominicmaritoiu/">Click here to visit my LinkedIn profile</a>
+<p>Email: dominicmaritoiu@outlook.com </p>
 
-Feel free to explore my repositories, and don't hesitate to provide feedback or suggestions. Let's code together and make an impact! 🚀
+<p>Feel free to explore my repositories, and don't hesitate to provide feedback or suggestions. Let's code together and make an impact! 🚀</p>
