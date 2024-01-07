@@ -30,7 +30,7 @@
   <h5>🤝 Let's Connect!</h5>
   <p>I'm always open to collaboration and discussion. Whether you have a project idea, want to share knowledge, or just chat about technology, feel free to reach out.</p>
 
-  <h6>📫 How to Reach Me</h6>
+  <h2>📫 How to Reach Me</h2>
   <p>Email: dominicmaritoiu@outlook.com</p>
   <p>LinkedIn: <a href="https://www.linkedin.com/in/dominicmaritoiu/">Dominic Maritoiu</a></p>
 
