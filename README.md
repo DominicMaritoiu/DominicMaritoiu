@@ -1,5 +1,6 @@
-👋 Hello there!
-Welcome to my GitHub profile! I'm Dominic, a passionate Junior Python Developer with a love for building applications and solving real-world problems. My journey in the world of programming has equipped me with skills in various technologies, and I'm always eager to learn and explore new things.
+<h1👋 Hello there!
+Welcome to my GitHub profile!</h1>
+<p>I'm Dominic, a passionate Junior Python Developer with a love for building applications and solving real-world problems. My journey in the world of programming has equipped me with skills in various technologies, and I'm always eager to learn and explore new things.</p>
 
 🔧 Technologies & Tools
 Here are some of the technologies and tools that I'm proficient in:
