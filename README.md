@@ -17,17 +17,17 @@
     <li>Web Technologies: HTML5, CSS3</li>
   </ul>
 
-  <h3>🚀 What I'm Currently Working On</h3>
+  <h2>🚀 What I'm Currently Working On</h2>
   <p>I'm currently developing my skills in Python and exploring various libraries and frameworks. My current focus includes improving my proficiency in Tkinter for GUI development, mastering data manipulation with Pandas, and enhancing my understanding of OOP principles.</p>
 
-  <h4>🌱 What I'm Learning</h4>
+  <h2>🌱 What I'm Learning</h2>
   <ul>
     <li>Advanced Python concepts</li>
     <li>Web development with Flask</li>
     <li>Integration of Git workflows for collaborative projects</li>
   </ul>
 
-  <h5>🤝 Let's Connect!</h5>
+  <h2>🤝 Let's Connect!</h2>
   <p>I'm always open to collaboration and discussion. Whether you have a project idea, want to share knowledge, or just chat about technology, feel free to reach out.</p>
 
   <h2>📫 How to Reach Me</h2>
