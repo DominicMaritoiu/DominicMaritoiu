@@ -1,18 +1,18 @@
 <h1>👋 Hello there! Welcome to my GitHub profile! </h1>
 <p>I'm Dominic, a passionate Junior Python Developer with a love for building applications and solving real-world problems. My journey in the world of programming has equipped me with skills in various technologies, and I'm always eager to learn and explore new things.</p>
 
-🔧 Technologies & Tools
-Here are some of the technologies and tools that I'm proficient in:
+<h2>🔧 Technologies & Tools
+Here are some of the technologies and tools that I'm proficient in: </h2>
 
-Programming Languages: Python
-GUI Development: Tkinter
-Data Manipulation & Analysis: Pandas
-Graphics & Visualization: Turtle
-Project Management: Jira, Confluence
-Version Control: Git
-Object-Oriented Programming (OOP)
-IDEs: PyCharm, Visual Studio Code
-Web Technologies: HTML
+<li>Programming Languages: Python</li>
+<li>GUI Development: Tkinter</li>
+<li>Data Manipulation & Analysis: Pandas</li>
+<li>Graphics & Visualization: Turtle</li>
+<li>Project Management: Jira, Confluence</li>
+<li>Version Control: Git</li>
+<li>Object-Oriented Programming (OOP)</li>
+<li>IDEs: PyCharm, Visual Studio Code</li>
+<li>Web Technologies: HTML</li>
 🚀 What I'm Currently Working On
 I'm currently honing my skills in Python and exploring various libraries and frameworks. My current focus includes improving my proficiency in Tkinter for GUI development, mastering data manipulation with Pandas, and enhancing my understanding of OOP principles.
 
