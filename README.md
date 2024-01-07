@@ -1,15 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>👋 Hello there! Welcome to my GitHub profile!</title>
-</head>
 
-<body>
 
-  <h1>👋 Hello there! Welcome to my GitHub profile!</h1>
+<h1>👋 Hello there! Welcome to my GitHub profile!</h1>
   <p>I'm Dominic, a passionate Junior Python Developer with a love for building applications and solving real-world problems. My journey in the world of programming has equipped me with skills in various technologies, and I'm always eager to learn and explore new things.</p>
 
   <h2>🔧 Technologies & Tools</h2>
