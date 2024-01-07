@@ -18,7 +18,7 @@
   </ul>
 
   <h2>🚀 What I'm Currently Working On</h2>
-  <p>I'm currently developing my skills in Python and exploring various libraries and frameworks. My current focus includes learning databases such as PostgreSQL, mastering data manipulation with Pandas, and enhancing my understanding of OOP principles.</p>
+  <p>I'm currently developing my skills in Python and exploring various libraries and frameworks. My current focus includes learning PostgreSQL, mastering data manipulation with Pandas, and enhancing my understanding of OOP principles.</p>
 
   <h2>🌱 What I'm Learning</h2>
   <ul>
